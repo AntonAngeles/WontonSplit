@@ -1,7 +1,5 @@
 # wontonsplit
 
-![wontonsplit](imgur.com image replace me!)
-
 *A short description of the keyboard/project*
 
 * Keyboard Maintainer: [AntonAngeles](https://github.com/AntonAngeles)

@@ -4,3 +4,4 @@
 #define SERIAL_PIO_USE_PIO1
 
 #define EE_HANDS
+#define PERMISSIVE_HOLD

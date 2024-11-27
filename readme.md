@@ -6,14 +6,10 @@
 * Hardware Supported: OXCB Helios
 * Hardware Availability: https://ringerkeys.com/en-ca/products/0xcb-helios
 
-Make example for this keyboard (after setting up your build environment):
-
-    make wontonsplit:default
-
 Flashing example for this keyboard:
 
-   qmk flash -kb wontonsplit -km antonangeles -bl uf2-split-left
-   qmk flash -kb wontonsplit -km antonangeles -bl uf2-split-right
+    qmk flash -kb wontonsplit -km antonangeles -bl uf2-split-left
+    qmk flash -kb wontonsplit -km antonangeles -bl uf2-split-right
 
 ## Bootloader
 

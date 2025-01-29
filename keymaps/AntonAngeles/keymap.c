@@ -35,7 +35,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     ), 
 	// first layer layout codes
 	[_FIRST] = LAYOUT_ortho_4x12(
-        KC_TILD,   KC_1,    KC_2,    KC_3,    KC_4,    KC_5,    KC_CIRC, KC_AMPR, KC_ASTR,  KC_LPRN,    KC_RPRN,  	KC_BSPC,
+        KC_GRV,   KC_1,    KC_2,    KC_3,    KC_4,    KC_5,    KC_CIRC, KC_AMPR, KC_ASTR,  KC_LPRN,    KC_RPRN,  	KC_BSPC,
         KC_TRNS,   KC_F1,   KC_F2,   KC_F3,   KC_F4,   KC_F5,   KC_F6,   KC_UNDS, KC_PLUS,  KC_LCBR,    KC_RCBR,  	KC_PIPE,
         KC_TRNS,   KC_1,    KC_2,    KC_3,    KC_4,    KC_5,    KC_TRNS, KC_TRNS, KC_TRNS, 	KC_TRNS, 	KC_TRNS,   	KC_TRNS,
         KC_TRNS,   KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS, KC_MNXT,  KC_VOLD,  	KC_VOLU,    KC_MPLY
